@@ -1,0 +1,16 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "import/no-dynamic-require": "off",
+        "no-console": "off",
+        "global-require": "off",
+        "no-shadow": "off",
+        "no-underscore-dangle": "off",
+        "import/no-extraneous-dependencies": [
+            "error",
+            {
+                "devDependencies": true
+            }
+        ]
+    }
+}

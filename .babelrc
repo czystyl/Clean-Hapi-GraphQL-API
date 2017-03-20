@@ -1,0 +1,9 @@
+{
+  "presets": [
+      "stage-3",
+      "node6"
+      ],
+  "plugins": [
+    "babel-plugin-inline-import"
+  ]
+}
