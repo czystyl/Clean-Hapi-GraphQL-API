@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "agenda": "^0.9.0",
-    "apollo-server": "^0.3.3",
+    "apollo-server": "^2.14.2",
     "async": "^2.0.1",
     "boom": "^3.2.2",
     "catbox-memory": "^2.0.4",
