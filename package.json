@@ -35,7 +35,7 @@
     "hapi-cors": "^1.0.1",
     "joi": "^9.0.4",
     "jsonwebtoken": "^7.3.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "mongoose": "^5.7.5",
     "mongoose-delete": "^0.3.4",
     "sails-mongo": "^0.12.1",
